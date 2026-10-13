@@ -1,0 +1,21 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pyc
+# secrets
+/ibm_key.txt
+
+# local notes and generated pages (root only)
+/README.MD
+/interactive/
+
+# upstream challenge repo (separate git clone)
+/qiskit-fall-fest-2026-IIITD/
+
+# Python / Jupyter clutter, anywhere
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
