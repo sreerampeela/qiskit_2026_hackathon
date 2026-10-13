@@ -8,7 +8,6 @@ __pycache__/
 /ibm_key.txt
 
 # local notes and generated pages (root only)
-/README.MD
 /interactive/
 
 # upstream challenge repo (separate git clone)
